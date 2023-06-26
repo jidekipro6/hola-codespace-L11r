@@ -12,7 +12,7 @@ public class Controller{
         
         @GetMapping(path="/mundo")
         public String home(){
-            return"A18100778 RAUL aparicio QUIJUA BARRERA ";
+            return"A18100778 RAUL  QUIJUA BARRERA ";
 
         }
 
