@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.holacodespaceL11r.HolaCodespaceL11rApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.138 s - in com.example.holacodespaceL11r.HolaCodespaceL11rApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.072 s - in com.example.holacodespaceL11r.HolaCodespaceL11rApplicationTests
